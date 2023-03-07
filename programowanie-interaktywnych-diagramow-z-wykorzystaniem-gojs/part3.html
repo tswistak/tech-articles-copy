@@ -1,0 +1,15 @@
+<html>
+  <body>
+    <div id="palette-content" style="height: 800px; width: 200px; display: inline-block; border: 1px solid black"></div>
+    <div id="diagram-content" style="height: 800px; width: calc(100% - 220px); display: inline-block; border: 1px solid black;"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gojs/1.8.19/go.js"></script>
+    <script src="./part3.js"></script>
+    <script>
+      window.onload = function() {
+        diagram.initDiagram();
+        diagram.initPalette();
+      };
+    </script>
+  </body>
+</html>
