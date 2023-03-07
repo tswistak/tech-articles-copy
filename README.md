@@ -1,6 +1,6 @@
 # tech-articles-copy
 
-Copies of tech articles I've written that are no longer available in original sources.
+Copies of tech articles I've written that are no longer available publicly on the Internet.
 
 If you'd like to read my texts, they are available at:
 
